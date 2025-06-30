@@ -69,4 +69,4 @@ Frontend Setup
     ```
     The React development server will start on `http://localhost:3000`.
 
-You can now access the application in your browser!Make Sure to add configurations(dab,email)in application.preperties. 
+You can now access the application in your browser!Make Sure to add configurations(db,email)in application.properties. 
